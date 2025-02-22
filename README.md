@@ -4,7 +4,7 @@
 👋 Olá! Sou um profissional de TI formado em Sistemas de Informação, possuo mais de 04 anos de experiência na área, onde tive a oportunidade de assumir diferentes papéis, como Suporte Técnico, Análise de Requisitos de Sistemas e Análise de Banco de Dados. Em 2023, iniciei minha jornada como Analista DevOps e desde então tenho me aperfeiçoado em tecnologias/ferramentas como Linux, Git, Docker, CI/CD e automações com Infrastructure as Code (IaC), focando nos princípios e práticas da cultura DevOps para promover eficiência e colaboração entre equipes de desenvolvimento e operações. 🚀
 
 ## Formação
-* Formado em **Sistemas de Informação** no Instituto Federal de Ciência e Tecnologia do Paraná (IFPR), campos Palmas.
+* Formado em **Sistemas de Informação** no Instituto Federal de Ciência e Tecnologia do Paraná (IFPR), campus Palmas.
 
 ## Ocupação Atual
 Analista DevOps | Analista de Suporte TI | Cloud | SRE
