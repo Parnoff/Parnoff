@@ -1,7 +1,19 @@
 ### Hi there 👋
 
 ## Sobre mim
-👋 Olá! Sou um profissional de TI formado em Sistemas de Informação, possuo mais de 04 anos de experiência na área, onde tive a oportunidade de assumir diferentes papéis, como Suporte Técnico, Análise de Requisitos de Sistemas e Análise de Banco de Dados. Em 2023, iniciei minha jornada como Analista DevOps e desde então tenho me aperfeiçoado em tecnologias/ferramentas como Linux, Git, Docker, CI/CD e automações com Infrastructure as Code (IaC), focando nos princípios e práticas da cultura DevOps para promover eficiência e colaboração entre equipes de desenvolvimento e operações. 🚀
+Minha trajetória profissional tem sido focada em suporte e análise de sistemas, sempre com forte interação com bancos de dados. Ao longo dos anos, desenvolvi habilidades em SQL, PL/SQL e otimização de consultas, aplicando esse conhecimento no diagnóstico, manutenção e melhoria de sistemas.
+
+Tenho experiência com Oracle Database (11g, 19c) e Firebird (2.5.3, 2.5.9), atuando na execução de queries, troubleshooting e suporte à conversão de bases. Participei de processos de migração de bases do Firebird 2.5 para Oracle 19c, garantindo a integridade e a compatibilidade dos dados. Além disso, possuo conhecimento das arquiteturas Oracle Non-CDB e Multi-Tenant, compreendendo suas diferenças e aplicações.
+
+💡 Migração de Ambientes e Cloud
+Além disso, tenho experiência no processo de migração de ambientes, tanto de clientes on-premise para a nuvem (Cloud) quanto em migrações entre provedores de Cloud, utilizando a Oracle Cloud OCI. Nesses projetos, minha principal função foi garantir a integridade dos sistemas ERP e demais aplicações, criando automações via scripts para agilizar o processo e realizando o acompanhamento antes, durante e após a migração. Também prestei suporte N3 para lidar com questões críticas de aplicação ERP, infraestrutura e demais impactos.
+
+🖥 Infraestrutura e Monitoramento
+Possuo experiência com Windows Server 2019, atuando no troubleshooting de aplicações e análise de logs para diagnosticar problemas de desempenho. Também tive contato com ferramentas de monitoramento como Zabbix, auxiliando na identificação e resolução de incidentes. Além disso, realizei troubleshooting de aplicações rodando em containers Docker, garantindo seu funcionamento adequado nos ambientes produtivos.
+
+Tenho também experiência operacional com servidores Linux, tanto em ambiente profissional quanto em labs próprios, onde gosto de explorar configurações, automações e otimizações do sistema. Desenvolvo scripts Shell e PowerShell para automação de tarefas e melhoria de processos.
+
+Atualmente, sigo me aprofundando no ecossistema Oracle e PL/SQL, buscando consolidar minha carreira na área de banco de dados e desenvolvimento SQL. 🚀
 
 ## Formação
 * Formado em **Sistemas de Informação** no Instituto Federal de Ciência e Tecnologia do Paraná (IFPR), campus Palmas.
@@ -20,13 +32,11 @@ Analista DevOps | Analista de Suporte TI | Cloud | SRE
 ### Sistemas Operacionais
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ### Scripts
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 ### IaC & CI/CD
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -36,9 +46,7 @@ Analista DevOps | Analista de Suporte TI | Cloud | SRE
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ### Databases
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ### Cloud Providers
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ### Plataformas
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
