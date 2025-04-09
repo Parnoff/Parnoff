@@ -24,7 +24,7 @@ Systems Analyst | SQL Developer | PL/SQL | Database | Linux
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4165d3?style=for-the-badge&logo=linkedin&logoColor=)](https://www.linkedin.com/in/luiz-alberto-parnoff/)
-![Discord](https://img.shields.io/discord/luiz_parnoff)
+![Discord](https://img.shields.io/discord)
 
 ## 🇧🇷 pt-br
 
@@ -52,4 +52,4 @@ Analista de Sistemas | SQL Developer | PL/SQL | Banco de Dados | Linux
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4165d3?style=for-the-badge&logo=linkedin&logoColor=)](https://www.linkedin.com/in/luiz-alberto-parnoff/)
-![Discord](https://img.shields.io/discord/luiz_parnoff)
+![Discord](https://img.shields.io/discord)
